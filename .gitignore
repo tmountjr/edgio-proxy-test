@@ -1,0 +1,3 @@
+node_modules
+nginx-https-proxy/nginx/certs/*.pem
+.edgio
