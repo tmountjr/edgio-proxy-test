@@ -3,6 +3,7 @@ module.exports = {
     proxied: {
       domainOrIp: "proxied.local",
       hostHeader: "proxied.local",
+      port: 8443,
       disableCheckCert: true,
     },
   },
